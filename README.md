@@ -1,2 +1,3 @@
 # gitdemo_windows
-csc 1120 Git Demo from Windows
+## This is a sub heading 
+csc 1120 *Git* Demo **from** Windows
